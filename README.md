@@ -5,7 +5,7 @@ Steps to run this project:
 1. For run DB (postgres) and pgAdmin4 run `docker-compose up` command from root folder of this project (/test).
 2. Run `npm i` command
 3. Run `npm start` command
-4. Ater this you can open `localhost:9000/graphql` in your browser and try out prepared Querys and Mutations bellow.
+4. After this you can open `localhost:9000/graphql` in your browser and try out prepared Querys and Mutations bellow.
 
 
 Querys:
